@@ -13,7 +13,8 @@
 				"DavidAnson.vscode-markdownlint",
 				"bierner.markdown-checkbox",
 				"hediet.vscode-drawio",
-				"mhutchie.git-graph"
+				"mhutchie.git-graph",
+				"ms-azuretools.vscode-docker"
 			]
 		}
 	}

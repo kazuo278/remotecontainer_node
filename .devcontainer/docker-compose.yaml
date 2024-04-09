@@ -4,4 +4,5 @@ services:
     build: node
     tty: true
     volumes:
+      - ~/.ssh:/root/.ssh
       - ..:/workspace
