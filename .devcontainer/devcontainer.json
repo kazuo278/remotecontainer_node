@@ -1,0 +1,20 @@
+{
+	"name": "node",
+	"dockerComposeFile": "docker-compose.yaml",
+	"service": "node",
+	"workspaceFolder": "/workspace",
+	"shutdownAction": "stopCompose",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"shardulm94.trailing-spaces",
+				"dbaeumer.vscode-eslint",
+				"redhat.vscode-yaml",
+				"DavidAnson.vscode-markdownlint",
+				"bierner.markdown-checkbox",
+				"hediet.vscode-drawio",
+				"mhutchie.git-graph"
+			]
+		}
+	}
+}

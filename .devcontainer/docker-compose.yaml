@@ -1,0 +1,7 @@
+version: '3'
+services:
+  node:
+    build: node
+    tty: true
+    volumes:
+      - ..:/workspace
